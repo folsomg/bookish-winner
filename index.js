@@ -4,7 +4,7 @@ console.log('Welcome to bookish-winner');
 // Initialize application
 function init() {
   // Update: commit 21
-    console.log('Application initialized');
+    console.log('Application initialized'); // updated
 }
 
   // Update: commit 30
